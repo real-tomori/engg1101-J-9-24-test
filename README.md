@@ -1,2 +1,5 @@
 # engg1101-J-9-24-test
-for test only
+
+## My goal
+
+I want to use GitHub for my engineering projects.
